@@ -1,7 +1,8 @@
 # Sales_System_Web_App
 Sistema de Ventas
 
-![Selección_009](https://user-images.githubusercontent.com/43627087/62211684-6dae1880-b35c-11e9-98dc-a9330b5a6052.png)
+![Selección_014](https://user-images.githubusercontent.com/43627087/62211982-19576880-b35d-11e9-8fa3-5c0f1d38c0a6.png)
+
 
 ![Selección_010](https://user-images.githubusercontent.com/43627087/62211713-80285200-b35c-11e9-97c1-e8c0c103bbac.png)
 
