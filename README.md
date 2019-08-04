@@ -12,7 +12,7 @@ El sistema de ventas, se trata de una aplicación web, para la gestión de clien
 - Nueva Venta
 
 ## Skills de desarrollo
-La aplicación fue diseña para trabajar en un entorno web, integrado con el asistente **maven**, Patrón de diseño **MVC**          (Modelo, vista, Controlador)
+La aplicación fue diseña para trabajar en un entorno web, integrado con el asistente **Apache Maven**, bajo el patrón de diseño **MVC** (Modelo, vista, Controlador). Aplicacion contruida con la version de java 8 y compilada con el IDE Netbeans 8.2. 
 
 #### Frontend
 - Bootstrap 4
