@@ -12,7 +12,7 @@ El sistema de ventas, se trata de una aplicación web, para la gestión de clien
 - Nueva Venta
 
 ## Skills de desarrollo
-La aplicación fue diseña para trabajar en un entorno web, integrado con el asistente maven
+La aplicación fue diseña para trabajar en un entorno web, integrado con el asistente **maven**, Patrón de diseño **MVC**          (Modelo, vista, Controlador)
 
 #### Frontend
 - Bootstrap 4
